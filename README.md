@@ -66,8 +66,6 @@ Our code and models will be publicly released.
   <img src="media/architecture.png" alt="Architecture" width="90%">
 </p>
 
-(Insert your architecture image as `media/architecture.png`.)
-
 ---
 
 ## 🔧 Getting Started
