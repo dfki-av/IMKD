@@ -14,8 +14,7 @@
 
   <h3 align="center">
     <a href="#">Project Page</a> |
-    <a href="#">Dataset</a> |
-    <a href="#">Paper</a> |
+    <a href="https://arxiv.org/abs/2512.15581">Paper</a> |
     <a href="#">Models</a>
   </h3>
 </p>
