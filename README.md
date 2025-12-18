@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">
-    <img src="media/logo.png" width="50" style="vertical-align: middle; margin-right: 8px;">
     IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera–Radar Fusion
   </h1>
 
@@ -77,12 +76,12 @@ You can contact the author through email: Shashank.Mishra@dfki.de
 ## Citing
 If you find our work useful, please consider citing:
 ```BibTeX
-@misc{wang2025inpaint360gsefficientobjectaware3d,
-      title={Inpaint360GS: Efficient Object-Aware 3D Inpainting via Gaussian Splatting for 360{\deg} Scenes}, 
-      author={Shaoxiang Wang and Shihong Zhang and Christen Millerdurai and Rüdiger Westermann and Didier Stricker and Alain Pagani},
+@misc{mishra2025imkdintensityawaremultilevelknowledge,
+      title={IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion}, 
+      author={Shashank Mishra and Karan Patil and Didier Stricker and Jason Rambach},
       year={2025},
-      eprint={2511.06457},
+      eprint={2512.15581},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.06457}, 
+      url={https://arxiv.org/abs/2512.15581}, 
 }
