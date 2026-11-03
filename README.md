@@ -122,12 +122,11 @@ You can contact the author through email: Shashank.Mishra@dfki.de
 ## Citing
 If you find our work useful, please consider citing:
 ```BibTeX
-@misc{mishra2025imkdintensityawaremultilevelknowledge,
-      title={IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion}, 
-      author={Shashank Mishra and Karan Patil and Didier Stricker and Jason Rambach},
-      year={2025},
-      eprint={2512.15581},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.15581}, 
+@inproceedings{mishra2026imkd,
+  title={IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion},
+  author={Mishra, Shashank and Patil, Karan and Stricker, Didier and Rambach, Jason},
+  booktitle={2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={6027--6038},
+  year={2026},
+  organization={IEEE}
 }
