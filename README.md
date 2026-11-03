@@ -5,20 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2512.15581"><img src="https://img.shields.io/badge/WACV-2026-blue" alt="WACV 2026"></a>
+  <a href="https://www.dfki.de/fileadmin/user_upload/import/16566_IMKD_Intensity_Aware_Multi_Level_KD.pdf"><img src="https://img.shields.io/badge/WACV-2026-blue" alt="WACV 2026"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashank-mishra-73190b18/"><strong>Shashank Mishra</strong></a> ·
-  <a href="https://www.linkedin.com/in/karanpatil0612/"><strong>Karan Patil</strong></a> ·
-  <a href="https://scholar.google.com/citations?hl=en&user=ImhXfxgAAAAJ"><strong>Didier Stricker</strong></a> ·
-  <a href="https://www.linkedin.com/in/jason-rambach-03a9b258/"><strong>Jason Rambach</strong></a>
-</p>
-
-<p align="center">
-  <a href="#">Project Page</a> |
-  <a href="https://arxiv.org/abs/2512.15581">Paper</a> |
-  <a href="#">Models</a>
+  <a href="https://www.dfki.de/fileadmin/user_upload/import/16566_IMKD_Intensity_Aware_Multi_Level_KD.pdf">Paper</a>
 </p>
 
 **IMKD** introduces a three-stage, intensity-aware multi-level knowledge distillation pipeline for high-performance Radar–Camera 3D object detection without requiring LiDAR at inference time.
@@ -94,15 +85,11 @@ This section compares camera- and radar-based 3D object detection methods on the
 
 ## 🔧 Getting Started
 
+This repository is currently under preparation.
+
 - [ ] Release code
 - [ ] Release config files
 - [ ] Release model
-
----
-
-## 📧 Contact
-
-For questions, please contact [Shashank.Mishra@dfki.de](mailto:Shashank.Mishra@dfki.de).
 
 ---
 
